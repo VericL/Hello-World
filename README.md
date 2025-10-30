@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-author:"Luka Verić"
+author: "Luka Verić"
 date: "30. listopada 2025."
 ---
 
