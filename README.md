@@ -1,3 +1,9 @@
+---
+title: "Hello World"
+author:"Luka Verić"
+date: "30. listopada 2025."
+---
+
 # Hello-World
 Moj prvi GitHub repozitorij
 
